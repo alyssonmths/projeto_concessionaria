@@ -1,0 +1,21 @@
+Fiat Uno,15000,2015,conservado
+Chevrolet Onix,45000,2020,novo
+Volkswagen Gol,25000,2017,seminovo
+Ford Ka,30000,2018,seminovo
+Toyota Corolla,95000,2022,novo
+Hyundai HB20,60000,2021,novo
+Renault Sandero,40000,2019,seminovo
+Honda Civic,85000,2021,novo
+Jeep Renegade,120000,2023,novo
+Nissan Versa,75000,2020,novo
+Volkswagen Fox,20000,2014,conservado
+Chevrolet Celta,18000,2013,conservado
+Ford Ecosport,35000,2016,conservado
+Toyota Hilux,180000,2023,novo
+Hyundai Tucson,55000,2017,seminovo
+Renault Logan,30000,2016,conservado
+Honda Fit,65000,2020,seminovo
+Fiat Palio,15000,2012,mal estado
+Volkswagen Passat,70000,2019,seminovo
+Chevrolet Tracker,80000,2021,novo
+Celta,90000,2010,conservado
